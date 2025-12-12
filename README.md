@@ -59,9 +59,6 @@ I'm a passionate developer who loves to build innovative solutions and explore n
   <!-- GitHub Stats Card with cache busting and improved configuration -->
   <img src="https://github-readme-stats.vercel.app/api?username=AdithyaSM31&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&v=2" alt="GitHub Stats" height="170" />
   
-  <!-- Streak Stats with cache busting -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdithyaSM31&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" alt="GitHub Streak" height="170" />
-  
 </div>
 
 <div align="center">
@@ -76,14 +73,6 @@ I'm a passionate developer who loves to build innovative solutions and explore n
 <div align="center">
   
   [![Adithya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdithyaSM31&theme=radical&hide_border=true&area=true)](https://github.com/AdithyaSM31)
-  
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=AdithyaSM31&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
