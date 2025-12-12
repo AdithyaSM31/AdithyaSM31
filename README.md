@@ -99,10 +99,6 @@ I'm a passionate developer who loves to build innovative solutions and explore n
 
 <div align="center">
   
-  ### 👀 Profile Views
-  
-  ![Visitor Count](https://profile-counter.glitch.me/AdithyaSM31/count.svg)
-  
   ### ⭐ Show some love by starring my repositories!
   
   ![GitHub followers](https://img.shields.io/github/followers/AdithyaSM31?style=social)
