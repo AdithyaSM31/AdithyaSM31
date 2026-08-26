@@ -68,8 +68,8 @@ I'm a passionate developer who loves to build innovative solutions and explore n
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdithyaSM31&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaSM31&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" height="170" />
+<img src="https://github-stats-extended.vercel.app/api?username=AdithyaSM31&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="170" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AdithyaSM31&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" height="170" />
 
 <img src="https://streak-stats.demolab.com/?user=AdithyaSM31&theme=radical&hide_border=true" alt="GitHub Streak" height="170" />
 
