@@ -1,9 +1,12 @@
-# Hi there! 👋 I'm Adithya SM
-
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Developer;Data+Analyst;Machine+Learning+Enthusiast;Problem+Solver;Always+Learning+New+Things)](https://git.io/typing-svg)
-  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20there!%20I'm%20Adithya%20SM&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Data%20Analyst%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Developer;Data+Analyst;Machine+Learning+Enthusiast;Problem+Solver;Always+Learning+New+Things)](https://git.io/typing-svg)
+
+![Profile views](https://komarev.com/ghpvc/?username=AdithyaSM31&style=for-the-badge&color=2E9EF7&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/AdithyaSM31?style=for-the-badge&color=2E9EF7&labelColor=1a1a2e)
+
 </div>
 
 ## 🚀 About Me
@@ -64,59 +67,55 @@ I'm a passionate developer who loves to build innovative solutions and explore n
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=AdithyaSM31&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" height="170" />
-  
-</div>
 
-<div align="center">
-  
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdithyaSM31&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" height="170" />
-  
+<img src="https://github-readme-stats.vercel.app/api?username=AdithyaSM31&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaSM31&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" height="170" />
+
+<img src="https://streak-stats.demolab.com/?user=AdithyaSM31&theme=radical&hide_border=true" alt="GitHub Streak" height="170" />
+
 </div>
 
 ### 📈 Contribution Graph
 
 <div align="center">
-  
-  [![Adithya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adithyasm31&theme=radical&hide_border=true&area=true)](https://github.com/AdithyaSM31)
-  
+
+[![Adithya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adithyasm31&theme=radical&hide_border=true&area=true)](https://github.com/AdithyaSM31)
+
 </div>
 
 ## 🤝 Connect with Me
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adithyasm31)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdithyaSM31)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithyasankarmenon@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.adithyasm.dev/)
-  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adithyasm31)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdithyaSM31)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithyasankarmenon@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.adithyasm.dev/)
+
 </div>
 
 ## 💭 Quote of the Day
 
 <div align="center">
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 </div>
 
 ---
 
 <div align="center">
-  
-  ### ⭐ Show some love by starring my repositories!
-  
-  ![GitHub followers](https://img.shields.io/github/followers/AdithyaSM31?style=social)
-  ![GitHub stars](https://img.shields.io/github/stars/AdithyaSM31?style=social)
-  
-</div>
 
----
+### ⭐ Show some love by starring my repositories!
+
+![GitHub stars](https://img.shields.io/github/stars/AdithyaSM31?style=social)
+
+</div>
 
 <div align="center">
-  
-  **💻 "Code is like humor. When you have to explain it, it's bad." – Cory House**
-  
+
+**💻 "Code is like humor. When you have to explain it, it's bad." – Cory House**
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
