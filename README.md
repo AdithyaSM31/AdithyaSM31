@@ -79,7 +79,7 @@ I'm a passionate developer who loves to build innovative solutions and explore n
 
 <div align="center">
 
-[![Adithya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdithyaSM31&theme=radical&hide_border=true&area=true)](https://github.com/AdithyaSM31)
+[![Adithya's github activity graph](https://ghchart.rshah.org/2E9EF7/AdithyaSM31)](https://github.com/AdithyaSM31)
 
 </div>
 
