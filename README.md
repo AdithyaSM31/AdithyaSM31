@@ -30,6 +30,8 @@
 
 ## Tech Stack
 
+<div align="center">
+
 **Languages**<br>
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -73,6 +75,8 @@
 ![RAG](https://img.shields.io/badge/RAG-6E40C9?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Amazon Rekognition](https://img.shields.io/badge/Amazon_Rekognition-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
 
 ## Certifications
 
