@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Adithya%20Sankar%20Menon&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Cloud%20%7C%20AWS%20Certified&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Adithya%20Sankar%20Menon&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20and%20Cloud%20%7C%20AWS%20Certified&descAlignY=58&descSize=18" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Building+scalable+backend+systems;Real-time+apps+with+CRDTs+%26+WebSockets;Serverless+on+AWS;LeetCode+Knight+%E2%80%A2+Top+4.29%25)](https://www.adithyasm.tech/)
 
